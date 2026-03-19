@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Introducción
+## Introducción
 
 En el desarrollo de software moderno, es fundamental construir programas organizados, reutilizables y fáciles de mantener. Para lograr esto, se utilizan conceptos como componentes, módulos, paquetes y librerías, los cuales permiten dividir un sistema en partes más pequeñas y manejables.
 
@@ -20,7 +20,7 @@ En Python, estos elementos son esenciales, ya que el lenguaje está diseñado pa
 
 ---
 
-# 🔹 2.1 Definición conceptual de componentes, paquetes y librerías
+#  2.1 Definición conceptual de componentes, paquetes y librerías
 
 ##  ¿Qué es un componente?
 
@@ -32,7 +32,7 @@ Los componentes ayudan a:
 * Facilitar el mantenimiento del código
 * Mejorar la legibilidad
 
-### 🔸 Tipos de componentes
+###  Tipos de componentes
 
 **1. Componentes funcionales (no visuales):**
 Son aquellos que realizan operaciones internas.
