@@ -1,4 +1,4 @@
-# T-picos-Avanzados-de-Programaci-n--Unidad-2
+# T-picos-Avanzados-de-Programaci-n-Unidad-2
 # Unidad 2 - Componentes y Librerías en Python 🐍
 
 ---
