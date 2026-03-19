@@ -100,7 +100,7 @@ mi_proyecto/
 
 ---
 
-# 🔹 2.2 Uso de librerías proporcionadas por el lenguaje
+#  2.2 Uso de librerías proporcionadas por el lenguaje
 
 Python incluye una gran cantidad de librerías estándar que permiten realizar diversas tareas.
 
@@ -232,7 +232,7 @@ ventana.mainloop()
 
 ---
 
-# 🔹 2.4 Creación y uso de paquetes/librerías propias
+#  2.4 Creación y uso de paquetes/librerías propias
 
 ---
 
@@ -316,7 +316,7 @@ El uso de componentes, librerías y paquetes es fundamental en el desarrollo de 
 
 ---
 
-# 🚀 Aplicaciones en la vida real
+#  Aplicaciones en la vida real
 
 Estos conceptos se utilizan en:
 
@@ -328,7 +328,7 @@ Estos conceptos se utilizan en:
 
 ---
 
-# 👨‍💻 Autor
+#  Autor
 
 Nombre: Noel Castillo Villanueva
 Materia: Tópicos Avanzados de Programación
